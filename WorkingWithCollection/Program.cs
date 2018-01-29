@@ -27,7 +27,7 @@ namespace WorkingWithCollection
             b1.ISBN = "0-000-0000-0";
             /*
             //ArrayLists are dynamically sized,
-            //cool features sorting, remove items Hello Test
+            //cool features sorting, remove items Hello Test Test
             ArrayList myArrayList = new ArrayList();
             myArrayList.Add(car1);
             myArrayList.Add(car2);
