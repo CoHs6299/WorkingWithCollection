@@ -23,6 +23,8 @@ namespace WorkingWithCollection
 
             Book b1 = new Book();
             Book b2 = new Book();
+            Book b4 = new Book();
+            Book b5 = new Book();
             b1.Author = "Robert Tabor";
             b1.Title = "Microsoft .NET XML Web Services";
             b1.ISBN = "0-000-0000-0";
